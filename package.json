@@ -4,12 +4,12 @@
   "description": "a test for flitter wave v2 route",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "ejs": "~1.0.0",
     "express": "~4.9.8",
-    "flutterwave-node-v3": "^1.0.6"
+    "flutterwave-node": "~1.2.0"
   },
   "author": "Emmanuel Ayemere",
   "license": "ISC"
