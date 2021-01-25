@@ -1,0 +1,11 @@
+{
+  "name": "flutter_wave_test",
+  "version": "1.0.0",
+  "description": "a test for flitter wave v2 route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Ayemere",
+  "license": "ISC"
+}
